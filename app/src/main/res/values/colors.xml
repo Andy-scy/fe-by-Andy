@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_background">#FFFBFE</color>
+    <!-- 图标沿用原版 Fe 横版 logo，自适应图标底色取白，保证圆形/圆角遮罩下不出现色块。 -->
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>
